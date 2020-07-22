@@ -18,7 +18,7 @@ organizations:
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: A naive starter.
 
 interests:
 - Railway

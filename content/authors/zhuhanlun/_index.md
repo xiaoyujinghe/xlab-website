@@ -18,11 +18,11 @@ organizations:
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I'm a naive developer
 
 interests:
 - Coding
-
+- 
 education:
   courses:
   - course: Data Science and Engineering
@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:253485846@qq.com"  # For a direct email link, use "mailto:test@example.org".
+  link: "253485846@qq.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com
@@ -57,7 +57,5 @@ user_groups:
 
 ---
 
-## A contributer to OnlineJudge system in Design Thinking.
----
-
+## A contributer to DesignThinking-OJ.
 
