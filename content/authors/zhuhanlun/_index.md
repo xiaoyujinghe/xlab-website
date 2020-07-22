@@ -18,12 +18,19 @@ organizations:
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
+<<<<<<< HEAD
 bio: I'm a naive developer
 
 interests:
 - Reading
 - Cats
 - Financing
+=======
+bio: 
+
+interests:
+- Coding
+>>>>>>> af7bc70cab9dd68b4a029dfb27fda5455726aeb0
 
 education:
   courses:
@@ -39,10 +46,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
+<<<<<<< HEAD
   link: "253485846@qq.com"  # For a direct email link, use "mailto:test@example.org".
+=======
+  link: "mailto:253485846@qq.com"  # For a direct email link, use "mailto:test@example.org".
+>>>>>>> af7bc70cab9dd68b4a029dfb27fda5455726aeb0
 - icon: github
   icon_pack: fab
-  link: https://github.com/nicole01101101zke
+  link: https://github.com
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,8 +66,15 @@ email: "253485846@qq.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Design Thinking OJ
+- Undergraduate
 
 ---
 
+<<<<<<< HEAD
 ## A contributer to DesignThinking-OJ.
+=======
+## A contributer to OnlineJudge system in Design Thinking.
+---
+
+
+>>>>>>> af7bc70cab9dd68b4a029dfb27fda5455726aeb0
